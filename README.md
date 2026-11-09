@@ -1,6 +1,6 @@
 # SSH Remote Server Setup
 
-Project from roadmap.sh: set up a remote Linux server and connect over SSH with two different key pairs.
+Project from https://roadmap.sh/projects/ssh-remote-server-setup: set up a remote Linux server and connect over SSH with two different key pairs.
 
 ## Server
 - Provider: AWS EC2 (Free plan), Region us-east-2 (Ohio)
